@@ -1,0 +1,49 @@
+* {
+    text-align: center;
+    color: blue;
+  }
+  
+  body {
+    background-color: rgb(144, 198, 216);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  h2 {
+    background-color: rgb(41, 27, 92);
+    color: yellow;
+  }
+  
+  p {
+    color: red;
+    text-align: center;
+  }
+  
+  a {
+    color:whitesmoke;
+  }
+  
+
+  /* sadece adından dolayı rengi turuncu olmalı */
+  #adiboyleolanlar {
+    text-align: center;
+    color: orange;
+  }
+  
+
+  .sinif1 {
+    color: greenyellow;
+  }
+
+  .sinif2 {
+    color: green;
+    background-color: hotpink;
+  }
+  
